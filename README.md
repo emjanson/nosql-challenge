@@ -1,2 +1,2 @@
 # nosql-challenge
- MSU Data ANalytics BootCamp Module 12 Challenge
+ MSU Data Analytics BootCamp Module 12 Challenge
